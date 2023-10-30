@@ -1,0 +1,3 @@
+[submodule "extern/moon"]
+	path = extern/moon
+	url = https://github.com/sidaf/moon
