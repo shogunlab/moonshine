@@ -1,6 +1,0 @@
-if(MOON_USE_LUAJIT)
-add_subdirectory(liblua51)
-else()
-add_subdirectory(liblua54)
-endif()
-add_subdirectory(moon)
